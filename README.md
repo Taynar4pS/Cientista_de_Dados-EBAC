@@ -1,99 +1,70 @@
-##📊 Curso de Cientista de Dados — EBAC
+# 📊 Cientista de Dados — EBAC
 
-Repositório dedicado às atividades, exercícios e projetos desenvolvidos ao longo do curso de Cientista de Dados da EBAC.
-Aqui registro minha evolução prática nas principais etapas do trabalho com dados: coleta, tratamento, análise, visualização e construção de modelos.
+Repositório com as atividades, exercícios e projetos desenvolvidos ao longo do curso de **Cientista de Dados da EBAC**.  
+O objetivo é registrar minha evolução prática em análise, modelagem e visualização de dados.
 
-📚 Módulos do Curso
-1. Introdução à Ciência de Dados
+---
 
-Conceitos fundamentais
+## 📚 Módulos do Curso
 
-Pipeline de dados
+### **1. Introdução à Ciência de Dados**
+- Fundamentos da área  
+- Pipeline de dados  
+- Carreira e aplicações
 
-Carreira e mercado
+### **2. Python para Dados**
+- Sintaxe básica  
+- Estruturas de dados  
+- Funções  
+- Manipulação de arquivos
 
-2. Python para Dados
+### **3. Análise e Limpeza de Dados**
+- Pandas  
+- Tratamento de valores ausentes  
+- Padronização  
+- Outliers
 
-Sintaxe básica
+### **4. Estatística Aplicada**
+- Estatística descritiva  
+- Probabilidade  
+- Distribuições  
+- Testes estatísticos
 
-Estruturas de dados
+### **5. Visualização de Dados**
+- Matplotlib  
+- Seaborn  
+- Comunicação visual  
+- Storytelling
 
-Funções e módulos
+### **6. Banco de Dados e SQL**
+- Estruturas relacionais  
+- CRUD  
+- Consultas SQL  
+- Integração com Python
 
-Manipulação de arquivos
+### **7. Machine Learning**
+- Pré-processamento  
+- Modelos supervisionados  
+- Modelos não supervisionados  
+- Avaliação e validação
 
-3. Análise e Tratamento de Dados
+### **8. Projetos Integradores**
+- Estudos de caso  
+- Análises completas  
+- Construção de portfólio
 
-Pandas
+---
 
-Limpeza e padronização
+## 🛠️ Tecnologias Utilizadas
+- Python  
+- Pandas, NumPy, Scikit-learn  
+- SQL  
+- Matplotlib, Seaborn  
+- Jupyter Notebook  
+- Git & GitHub  
+- Power BI
 
-Tratamento de ausências e outliers
+---
 
-4. Estatística Aplicada
-
-Estatística descritiva
-
-Probabilidade
-
-Distribuições
-
-Testes de hipótese
-
-5. Visualização de Dados
-
-Matplotlib
-
-Seaborn
-
-Boas práticas de comunicação visual
-
-Storytelling com dados
-
-6. Banco de Dados e SQL
-
-Estruturas relacionais
-
-Consultas SQL
-
-Integração Python + SQL
-
-7. Machine Learning
-
-Pré-processamento
-
-Modelos supervisionados
-
-Modelos não supervisionados
-
-Métricas de avaliação
-
-Ajuste e validação de modelos
-
-8. Projetos Integradores
-
-Estudos de caso reais
-
-Análises completas
-
-Construção de portfólio
-
-🛠️ Tecnologias Utilizadas
-
-Python
-
-Pandas, NumPy, Scikit-learn
-
-SQL
-
-Jupyter Notebook
-
-Matplotlib, Seaborn
-
-Git & GitHub
-
-Power BI (quando aplicável)
-
-🚀 Objetivo do Repositório
-
-Demonstrar minha evolução prática na área de dados por meio de exercícios reais, organização de código, análises completas e projetos que possam compor meu portfólio profissional.
+## 🚀 Objetivo
+Consolidar conhecimento e desenvolver experiências práticas relevantes para a
