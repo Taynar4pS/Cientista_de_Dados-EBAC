@@ -1,4 +1,4 @@
-📊 Curso de Cientista de Dados — EBAC
+##📊 Curso de Cientista de Dados — EBAC
 
 Repositório dedicado às atividades, exercícios e projetos desenvolvidos ao longo do curso de Cientista de Dados da EBAC.
 Aqui registro minha evolução prática nas principais etapas do trabalho com dados: coleta, tratamento, análise, visualização e construção de modelos.
